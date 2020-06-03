@@ -1,7 +1,7 @@
 import {Persona} from './persona.mjs';
-import {Padres} from './padres.js';
-import {Estudiante} from './estudiante.js';
-import {Docente} from './docente.js';
+import {Padres} from './padres.mjs';
+import {Estudiante} from './estudiante.mjs';
+import {Docente} from './docente.mjs';
 
 console.log('=========Persona==========')
 let maria=new Persona('Maria','Hurtado',40,'F')
